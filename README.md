@@ -7,7 +7,7 @@
 - Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `pip install pyrogram`
 - Bước 3: Bỏ file .session vào thư mục sessions
 - Bước 4: Thay api_id và api_hash trong file `getcode.py`
-- Bước 5: Sử dụng `python getcode.` để chạy tool
+- Bước 5: Sử dụng `python getcode.py` để chạy tool
 ---
 **📦 Phiên bản**
 >Phiên bản mới nhất: **v1.0**
