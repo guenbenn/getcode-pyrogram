@@ -1,5 +1,5 @@
-from pyrogram import Client
 import os
+from pyrogram import Client
 
 api_id = xxx  # Thay bằng api_id của bạn
 api_hash = 'xxx'  # Thay bằng api_hash của bạn
