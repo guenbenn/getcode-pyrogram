@@ -1,4 +1,4 @@
-# Tool Get Login Code Telegram (Pyrogram sessions)
+# Tool Get Login Code Telegram (Pyrogram session)
 **Tool được chia sẻ bởi [@guen_benn](https://t.me/guen_benn)**
 ---
 **🛠️ Hướng dẫn cài đặt**
