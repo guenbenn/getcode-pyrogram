@@ -1,2 +1,2 @@
-# getcode-pyrogram-
-Tool lấy mã đăng nhập Telegram session Pyrogram
+# getcode
+Tool lấy mã đăng nhập Telegram Pyrogram sessions
