@@ -1,5 +1,5 @@
 # Tool Get Login Code Telegram (Pyrogram sessions)
-Tool được chia sẻ bởi [@guen_benn](https://t.me/guen_benn)
+**Tool được chia sẻ bởi [@guen_benn](https://t.me/guen_benn)**
 ---
 **🛠️ Hướng dẫn cài đặt**
 >Yêu cầu đã cài đặt Python 3.11.5
