@@ -24,6 +24,6 @@ while True:
                 print(f"Mã đăng nhập: {login_code} ({message_time}).")
                 break
 
-    continue_input = input("Nhập mã tiếp (y/n): ").strip().lower()
+    continue_input = input("Nhận mã tiếp (y/n): ").strip().lower()
     if continue_input != 'y':
         break
